@@ -101,29 +101,6 @@ Each framework is evaluated along privacy scope, efficiency, scalability, dynami
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-.
-├── assets/
-│   └── SecureAuditX-banner.svg
-├── report/
-│   └── Integrated_Privacy_Preserving_Auditing.pdf
-├── references/
-│   └── bibliography.bib
-├── figures/
-│   └── diagrams_and_models/
-├── notes/
-│   └── comparative_analysis.md
-└── README.md
-
-````
-
-> 📌 **Note:** This repository is research-focused and does not include production code.
-
----
-
 ## 🔮 Future Directions
 
 Potential extensions of SecureAuditX include:
