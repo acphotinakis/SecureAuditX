@@ -8,7 +8,6 @@
 
 **Author:** Andrew Photinakis  
 **Affiliation:** Rochester Institute of Technology (RIT)  
-**Context:** CSCI Research Report, 2025  
 
 ---
 
